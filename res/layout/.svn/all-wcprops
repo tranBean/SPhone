@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/haha/!svn/ver/84/mobileguard/res/layout
+END
+activity_splash.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_splash.xml
+END
+item_lock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/haha/!svn/ver/128/mobileguard/res/layout/item_lock.xml
+END
+activity_clean_cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/haha/!svn/ver/132/mobileguard/res/layout/activity_clean_cache.xml
+END
+activity_app_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/haha/!svn/ver/106/mobileguard/res/layout/activity_app_manager.xml
+END
+dialog_enter_pwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/haha/!svn/ver/84/mobileguard/res/layout/dialog_enter_pwd.xml
+END
+item_task_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/haha/!svn/ver/121/mobileguard/res/layout/item_task_manager.xml
+END
+activity_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/haha/!svn/ver/128/mobileguard/res/layout/activity_setting.xml
+END
+item_clean_cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/haha/!svn/ver/132/mobileguard/res/layout/item_clean_cache.xml
+END
+item_app_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/haha/!svn/ver/84/mobileguard/res/layout/item_app_manager.xml
+END
+activity_task_manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haha/!svn/ver/114/mobileguard/res/layout/activity_task_manager.xml
+END
+item_unlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/haha/!svn/ver/127/mobileguard/res/layout/item_unlock.xml
+END
+activity_set_pwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/haha/!svn/ver/129/mobileguard/res/layout/activity_set_pwd.xml
+END
+dialog_add_blacknumber.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haha/!svn/ver/84/mobileguard/res/layout/dialog_add_blacknumber.xml
+END
+item_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/haha/!svn/ver/84/mobileguard/res/layout/item_contact.xml
+END
+activity_task_manager_setting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/haha/!svn/ver/115/mobileguard/res/layout/activity_task_manager_setting.xml
+END
+item_lock_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/haha/!svn/ver/128/mobileguard/res/layout/item_lock_fragment.xml
+END
+activity_app_lock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/haha/!svn/ver/124/mobileguard/res/layout/activity_app_lock.xml
+END
+item_home_grid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/haha/!svn/ver/84/mobileguard/res/layout/item_home_grid.xml
+END
+toast_showaddress.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/haha/!svn/ver/84/mobileguard/res/layout/toast_showaddress.xml
+END
+ui_setting_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/ui_setting_view.xml
+END
+item_unlock_fragment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/haha/!svn/ver/127/mobileguard/res/layout/item_unlock_fragment.xml
+END
+activity_callsms_safe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_callsms_safe.xml
+END
+activity_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_contacts.xml
+END
+activity_lost_find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_lost_find.xml
+END
+activity_setup1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_setup1.xml
+END
+dialog_setup_pwd.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/haha/!svn/ver/84/mobileguard/res/layout/dialog_setup_pwd.xml
+END
+activity_setup2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_setup2.xml
+END
+activity_setup3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_setup3.xml
+END
+popup_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/haha/!svn/ver/84/mobileguard/res/layout/popup_item.xml
+END
+activity_setup4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_setup4.xml
+END
+activity_atools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/haha/!svn/ver/124/mobileguard/res/layout/activity_atools.xml
+END
+activity_address_query.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_address_query.xml
+END
+activity_home.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_home.xml
+END
+item_callsms.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/haha/!svn/ver/84/mobileguard/res/layout/item_callsms.xml
+END
+activity_callsms_safe2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haha/!svn/ver/84/mobileguard/res/layout/activity_callsms_safe2.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/haha/!svn/ver/84/mobileguard/res/layout/test.xml
+END
+process_widget.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/haha/!svn/ver/122/mobileguard/res/layout/process_widget.xml
+END
+activity_antivirusa.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/haha/!svn/ver/124/mobileguard/res/layout/activity_antivirusa.xml
+END

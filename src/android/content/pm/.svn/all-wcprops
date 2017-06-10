@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/haha/!svn/ver/132/mobileguard/src/android/content/pm
+END
+PackageStats.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/haha/!svn/ver/132/mobileguard/src/android/content/pm/PackageStats.aidl
+END
+IPackageStatsObserver.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/haha/!svn/ver/132/mobileguard/src/android/content/pm/IPackageStatsObserver.aidl
+END

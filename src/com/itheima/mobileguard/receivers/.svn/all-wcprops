@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/haha/!svn/ver/84/mobileguard/src/com/itheima/mobileguard/receivers
+END
+KillProcessAllReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/haha/!svn/ver/123/mobileguard/src/com/itheima/mobileguard/receivers/KillProcessAllReceiver.java
+END
+MyDeviceAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/haha/!svn/ver/84/mobileguard/src/com/itheima/mobileguard/receivers/MyDeviceAdmin.java
+END
+BootCompleteReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/haha/!svn/ver/84/mobileguard/src/com/itheima/mobileguard/receivers/BootCompleteReceiver.java
+END
+MyAppWidget.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/haha/!svn/ver/123/mobileguard/src/com/itheima/mobileguard/receivers/MyAppWidget.java
+END
+SmsReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/haha/!svn/ver/84/mobileguard/src/com/itheima/mobileguard/receivers/SmsReceiver.java
+END

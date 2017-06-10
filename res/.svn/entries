@@ -1,0 +1,77 @@
+10
+
+dir
+84
+http://ufuxzmnhdv23uuo:8091/svn/haha/mobileguard/res
+http://ufuxzmnhdv23uuo:8091/svn/haha
+
+
+
+2015-03-02T00:53:42.763251Z
+84
+xs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c68de81f-da57-d641-bdc6-bf32430e1eb2
+
+
+
+
+
+
+0
+
+anim
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+raw
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
+xml
+dir
+
